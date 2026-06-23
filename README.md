@@ -1,4 +1,4 @@
-# movie-recommentation-system
+# movie-recommendation-system
 
 ## Overview
 This project recommends movies to users based on similarity analysis using Machine Learning techniques.
